@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yuqueewepa.neofortemp.xyz/sitemap.xml
